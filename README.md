@@ -3,7 +3,7 @@
 FocusTrail este o aplicatie mobile care te ajuta sa iti mentii concentrarea in timp ce iti indeplinesti sarcinile, studiezi, sau lucrezi la alte proiecte. 
 
 Caracteristici:
-- Timer Pomodoro: sesiuni concentrare cu perioade de munca intercalate cu scurte pauze de odihna
+- Timer Pomodoro: sesiuni concentrate cu perioade de munca intercalate cu scurte pauze de odihna
 - Animatii Lottie: experienta utilizatorului este imbunatatita cu animatii Lottie atractive
 
   ![Homepage](https://github.com/CCotuna/FocusTrailApp/assets/126149136/665db406-3ec6-4584-9c34-2a188d124fcd)
