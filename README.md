@@ -1,16 +1,11 @@
 # focus_trail_app
 
-A new Flutter project.
+FocusTrail este o aplicatie mobile care te ajuta sa iti mentii concentrarea in timp ce iti indeplinesti sarcinile, studiezi, sau lucrezi la alte proiecte. 
 
-## Getting Started
+Caracteristici:
+- Timer Pomodoro: sesiuni concentrare cu perioade de munca intercalate cu scurte pauze de odihna
+- Animatii Lottie: experienta utilizatorului este imbunatatita cu animatii Lottie atractive
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![Homepage](https://github.com/CCotuna/FocusTrailApp/assets/126149136/665db406-3ec6-4584-9c34-2a188d124fcd)
+![TimerPage](https://github.com/CCotuna/FocusTrailApp/assets/126149136/5de39e9d-2fbb-48b9-b669-45a7498aa9c0)
+![BreakPage](https://github.com/CCotuna/FocusTrailApp/assets/126149136/3f585a6f-2e59-44b5-ba08-0b84307b8110)
